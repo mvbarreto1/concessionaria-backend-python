@@ -1,4 +1,4 @@
-[b]Sistema de Concessionária (Python + PostgreSQL)[/b]
+Sistema de Concessionária (Python + PostgreSQL
 
 Este projeto consiste em um sistema de gerenciamento de concessionária desenvolvido em Python, com persistência de dados em PostgreSQL e execução via linha de comando (CLI). O sistema simula operações comuns de uma concessionária, como cadastro de funcionários, registro de vendas, cálculo de comissões e geração de relatórios gerenciais.
 
@@ -12,7 +12,7 @@ O objetivo principal é demonstrar a capacidade de projetar e implementar um sis
 
 -----
 
-[b]Tecnologias Utilizadas[/b]
+Tecnologias Utilizadas
 
 - Python
 - PostgreSQL
