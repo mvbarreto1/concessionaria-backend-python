@@ -59,5 +59,6 @@ Considerações Finais
 
 Este projeto foi desenvolvido com foco em aprendizado prático e qualidade técnica, simulando demandas comuns de sistemas internos utilizados por empresas. Ele demonstra integração entre Python e PostgreSQL, uso consciente de SQL e aplicação de regras de negócio de forma estruturada, sendo adequado como case de backend e análise de dados para portfólio profissional.
 
+---
 Desenvolvido por Marcus Viniccius Araujo Barreto
 
